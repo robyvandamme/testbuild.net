@@ -1,3 +1,3 @@
-# Test repo for .NET builds
+# testbuild.net
 
-I use this to setup and test default build and deploy configurations.
+Used to setup and test default build and deploy configurations for .NET solutions
